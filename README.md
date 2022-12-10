@@ -1,7 +1,7 @@
 ### Hi there, I'm Dandi Saputra👨‍💻
 
 # 💫 Core Language:
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a><a src="https://www.go.dev/"><img src="https://go.dev/images/go-logo-white.svg"/></a><a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a><a src="https://www.go.dev/"><img src="[https://go.dev/images/go-logo-white.svg](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)"/></a><a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 
 
 ## 🌐 Socials:
